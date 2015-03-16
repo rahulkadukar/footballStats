@@ -82,3 +82,18 @@ For the matches node we have further nodes as described below
  * **card** *(Type of card either Red or Yellow)*
  * **type** *(The reason for receiving the said card)*
  * **time** *(Time when the player received the card)*
+
+# Corrections
+A lot of data for fouls has card given at time 0, given below are the statistics for incorrect data
+
+* There are 547 mistakes in English Premier League 1992-1993
+* There are 544 foul mistakes in English Premier League 1992-1993
+* There are 3 substitution mistakes in English Premier League 1992-1993
+
+* There are 653 mistakes in English Premier League 1993-1994
+* There are 652 foul mistakes in English Premier League 1993-1994
+* There is 1 substitution mistake in English Premier League 1993-1994
+
+* There are 1251 mistakes in English Premier League 1994-1995
+* There are 1248 foul mistakes in English Premier League 1994-1995
+* There are 3 substitution mistakes in English Premier League 1994-1995
