@@ -86,17 +86,17 @@ For the matches node we have further nodes as described below
 # Corrections
 A lot of data for fouls has card given at time 0, given below are the statistics for incorrect data
 
-* Premier League 1992 to 1993
+* English Premier League 1992-1993
  * There are 547 mistakes in English Premier League 1992-1993
  * There are 544 foul mistakes in English Premier League 1992-1993
  * There are 3 substitution mistakes in English Premier League 1992-1993
 
-* Premier League 1993 to 1994
+* English Premier League 1993-1994
  * There are 653 mistakes in English Premier League 1993-1994
  * There are 652 foul mistakes in English Premier League 1993-1994
- * There is 1 substitution mistake in English Premier League 1993-1994
+ * There are 1 substitution mistakes in English Premier League 1993-1994
 
-* Premier League 1994 to 1995
+* English Premier League 1994-1995
  * There are 1251 mistakes in English Premier League 1994-1995
  * There are 1248 foul mistakes in English Premier League 1994-1995
  * There are 3 substitution mistakes in English Premier League 1994-1995
@@ -110,9 +110,12 @@ A lot of data for fouls has card given at time 0, given below are the statistics
  * There are 1238 mistakes in English Premier League 1996-1997
  * There are 1238 foul mistakes in English Premier League 1996-1997
  * There are 0 substitution mistakes in English Premier League 1996-1997
+<<<<<<< HEAD
 
 * English Premier League 1997-1998
  * There are 1238 mistakes in English Premier League 1997-1998
  * There are 1232 foul mistakes in English Premier League 1997-1998
  * There are 6 substitution mistakes in English Premier League 1997-1998
 
+=======
+>>>>>>> origin/master
