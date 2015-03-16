@@ -51,7 +51,6 @@ For the matches node we have further nodes as described below
 * teamHome ***Names of the starting XI for the home team***
 
 * teamHome ***Names of the starting XI for the away team***
-
 * goalHome ***Names of the goal scorers for the home team***
  * **name** *(Name of the player who scored the goal)*
  * **time** *(Time when the goal was scored)*
