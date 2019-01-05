@@ -32,11 +32,11 @@ The individual nodes are as described below
 For the matches node we have further nodes as described below
 
 * general ***Contains general information about the match and includes the following fields***
- * **date** *(Date on which the match took place)*
- * **time** *(Local time when the match started)*
- * **referee** *(The name of the official referee)*
- * **venue** *(The venue where the match took place)*
- * **attendance** *(Number of people attending the match)*
+  * **date** *(Date on which the match took place)*
+  * **time** *(Local time when the match started)*
+  * **referee** *(The name of the official referee)*
+  * **venue** *(The venue where the match took place)*
+  * **attendance** *(Number of people attending the match)*
 
 * score ***This has information about the score and includes the following fields***
  * **home** *(The name of the home team)*
