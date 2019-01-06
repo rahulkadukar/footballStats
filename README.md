@@ -39,10 +39,10 @@ For the matches node we have further nodes as described below
   * **attendance** *(Number of people attending the match)*
 
 * score ***This has information about the score and includes the following fields***
- * **home** *(The name of the home team)*
- * **away** *(The name of the away team)*
- * **homeScore** *(Goals scored by the home team)*
- * **awayScore** *(Goals scored by the away team)*
+  * **home** *(The name of the home team)*
+  * **away** *(The name of the away team)*
+  * **homeScore** *(Goals scored by the home team)*
+  * **awayScore** *(Goals scored by the away team)*
  
 * benchHome ***Names of the players on the bench for the home team***
 
