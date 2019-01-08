@@ -63,14 +63,14 @@ For the matches node we have further nodes as described below
   * **desc** *(Description to indicate the type of goal that was scored)*
 
 * subsHome ***The substitutions for the home team***
- * **on** *(Name of the player who came on)*
- * **off** *(Name of the player who was taken off)*
- * **time** *(Time when the substitution took place)*
+  * **on** *(Name of the player who came on)*
+  * **off** *(Name of the player who was taken off)*
+  * **time** *(Time when the substitution took place)*
 
 * subsAway ***The substitutions for the away team***
- * **on** *(Name of the player who came on)*
- * **off** *(Name of the player who was taken off)*
- * **time** *(Time when the substitution took place)*
+  * **on** *(Name of the player who came on)*
+  * **off** *(Name of the player who was taken off)*
+  * **time** *(Time when the substitution took place)*
 
 * foulHome ***Cards received by the home team***
  * **name** *(Name of the player who received the card)*
