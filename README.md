@@ -73,16 +73,16 @@ For the matches node we have further nodes as described below
   * **time** *(Time when the substitution took place)*
 
 * foulHome ***Cards received by the home team***
- * **name** *(Name of the player who received the card)*
- * **card** *(Type of card either Red or Yellow)*
- * **type** *(The reason for receiving the said card)*
- * **time** *(Time when the player received the card)*
+  * **name** *(Name of the player who received the card)*
+  * **card** *(Type of card either Red or Yellow)*
+  * **type** *(The reason for receiving the said card)*
+  * **time** *(Time when the player received the card)*
 
 * foulAway ***Cards received by the away team***
- * **name** *(Name of the player who received the card)*
- * **card** *(Type of card either Red or Yellow)*
- * **type** *(The reason for receiving the said card)*
- * **time** *(Time when the player received the card)*
+  * **name** *(Name of the player who received the card)*
+  * **card** *(Type of card either Red or Yellow)*
+  * **type** *(The reason for receiving the said card)*
+  * **time** *(Time when the player received the card)*
 
 # Corrections
 A lot of data for fouls has card given at time 0, given below are the statistics for incorrect data
